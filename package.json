@@ -1,0 +1,19 @@
+{
+  "name": "typescript-decorators-reflection-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/halilkaankarakoc/typescript-decorators-reflection-demo.git",
+  "author": "Kaan Karakoc <kaan.karakoc@trendyol.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
